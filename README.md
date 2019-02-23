@@ -31,7 +31,7 @@ Příklad spuštění aplikace:
     make run api_key=00000000000000000000000000000000 city=’Nove Mesto na Morave’
     
 
-_API klíč je možné získat zdarma po registraci na https://home.openweathermap.org/users/sign_up\_
+_API klíč je možné získat zdarma po registraci na https://home.openweathermap.org/users/sign_up_
 
 ### Rozšíření
 Pro více informací o počasí je možné aplikaci spustit s volitelným argumentem:
